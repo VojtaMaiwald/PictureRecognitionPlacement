@@ -3,6 +3,7 @@ App for object placement on top of recognized picture with ARCore and Sceneform.
 Goal is to recognize three different pictures and place coresponding model on them.
 
 ARCore services in version 1.20 required
+
 Sceneform version: 1.15.0
 
 Used models:
