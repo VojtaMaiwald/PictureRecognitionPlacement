@@ -1,6 +1,6 @@
 # PictureRecognitionPlacement
 App for object placement on top of recognized picture with ARCore and Sceneform.
-Goal is to recognize three different pictures and place coresponding model on them.
+Recognizes three different pictures at the same time.
 
 ARCore services in version 1.20 required
 
@@ -8,7 +8,7 @@ Sceneform version: 1.15.0
 
 Used models:
 - sheep: https://poly.google.com/view/5rNuPUQQVcm
-- mouse: https://poly.google.com/view/6DOjEGKd8nx
+- mouse: https://poly.google.com/view/49PYgABKfFo
 - rabbit: https://poly.google.com/view/eggdSyUWa03
 
 ARCore SDK: 
