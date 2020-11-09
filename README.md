@@ -15,3 +15,5 @@ ARCore SDK:
 - GitHub: https://github.com/google-ar/arcore-android-sdk
 - how to work with imgDB maker: https://developers.google.com/ar/develop/c/augmented-images/arcoreimg
 - .obj to .sfa and .sfb converter: https://github.com/gdamoreira/google-ar-asset-converter
+
+Examples and resources: https://github.com/VojtaMaiwald/Resources/tree/main/PictureRecognitionPlacement
